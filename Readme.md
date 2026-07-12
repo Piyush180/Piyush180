@@ -2,9 +2,6 @@
 <h3 align="center">M.Tech IT @ NSUT | MERN DEVELOPER | AI & Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Piyush180">
-    <img src="https://komarev.com/ghpvc/?username=Piyush180&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
   <a href="https://github.com/Piyush180?tab=followers">
     <img src="https://img.shields.io/github/followers/Piyush180?label=Followers&style=social" />
   </a>
