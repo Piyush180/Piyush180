@@ -47,7 +47,7 @@
 - REST APIs
 - Deployed on Vercel & Render.
 
-🔗 [https://github.com/Piyush180](https://github.com/Piyush180/StayPal)
+🔗 https://github.com/Piyush180/StayPal
 --
 
 ## 🤖 Multi-Agent AI Research System
@@ -97,7 +97,7 @@
 - 🌍 Active Open Source Contributor
 - 🎓 Qualified **GATE 2025** (Computer Science & Information Technology)
 - 🥈 **7th Place** at Hack4Bengal (MLH) among 128 teams
-- 💻 Solved **150+ DSA problems**
+- 💻 Solved **200+ DSA problems**
   
 
 ---
@@ -105,4 +105,4 @@
 #  Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/piyush-parihar/
-- 📧 Email: piyush.parihar.pg25@nsut.ac.in
+- 📧 Email: pariharpiyush1806@gmail,com
