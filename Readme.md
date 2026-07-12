@@ -14,19 +14,25 @@
 
 # 🌟 Open Source Contributions
 
-###  EaseMotion CSS
+### EaseMotion CSS
 - ✅ Merged **Color Shift Rating Stars** component
 - Built using **HTML, CSS**, and EaseMotion transition variables (`--ease-*`)
 - Implemented smooth hover and selected-state animations without JavaScript
 - **Merged PR:** https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/42190
 
-###  Prompt2Issue
+### Prompt2Issue
 - ✅ Merged feature contribution
-- Worked on improving the project's functionality through an accepted pull request.
+- Enhanced the project's issue-generation workflow by implementing an accepted feature contribution.
+- Worked with the existing **React + TypeScript** codebase, following the project's architecture and contribution guidelines.
+- Collaborated through the complete open-source workflow, including branching, committing, code review, and merge.
+- **Merged Commit:** https://github.com/qapitall/Prompt2Issue/commit/ad2b9fd2144b04f1773cc88cbb6ef1d8c68e10e2
 
-###  Real-Time Chat App
-- Added a real-time user typing indicator using Socket.IO.
-- Worked with existing project architecture and GitHub contribution workflow.
+### Real-Time Chat App
+- ✅ Merged feature contribution
+- Added a **real-time user typing indicator** using **Socket.IO**, enabling live typing status updates between connected users.
+- Integrated the feature into the existing client-server architecture while maintaining event-driven communication and UI responsiveness.
+- Worked with an established codebase and followed the project's GitHub contribution workflow from implementation to merge.
+- **Merged Commit:** https://github.com/Harsh-Bajpai-1194/Real-Time-Chat-App/commit/01c47b6dee3cc3a4077e0a6113427a7bcc96585e
 
 ---
 
